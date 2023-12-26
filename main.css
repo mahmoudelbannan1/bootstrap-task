@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.bg-white {
+  background-color: white;
+}
+
+.navbar {
+  background-color: lightgray;
+  color: white;
+}
+
+.navbar-brand svg {
+  color: white;
+}
+/* img {
+  width: 10px;
+  height: 150px;
+} */
+.profInfo,
+.notification {
+  background-color: lightgray;
+}
